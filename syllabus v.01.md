@@ -1,4 +1,4 @@
-Iatros Syllabus
+## Iatros Syllabus
 
 http://nhm.gov.in/communitisation/asha/resources/asha-training-modules.html
 Notes:
@@ -13,7 +13,8 @@ Model for evaluation/feedback
 
 Training module will consist of :
 
-Orientation: Introduction of medical officer / intern doing  rural posting in PHC about telemedicine and about importance of this because till they don’t know the significance of it, they won’t get involved.
+## Orientation
+Introduction of medical officer / intern doing  rural posting in PHC about telemedicine and about importance of this because till they don’t know the significance of it, they won’t get involved.
 Patient Record Documentation: Training on the uploading of patient records and when they are well versed they can be trained to train the local ASHA or Anganwadi workers.
 Identification of potential Iatros: preferably ASHA workers / Anganwadi workers for using the network.
 HIPAA and OSHA education to trainees and the interns/doctors involved.
@@ -25,7 +26,7 @@ Feedback: maybe used to understand and address various thought processes, knowle
 
 Topics that will be covered in the interactive sessions will be:
 
-HEALTH CARE DELIVERY
+## HEALTH CARE DELIVERY
 Identification of danger signs of dehydration and management of dehydration along with indication to take the patient to a doctor.
 What to do when patient has a seizure as witness
 Early recognition of Myocardial infarction (MI) in a patient presenting with chest pain so that early referral is possible.
