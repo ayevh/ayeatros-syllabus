@@ -26,7 +26,7 @@ Feedback: maybe used to understand and address various thought processes, knowle
 
 Topics that will be covered in the interactive sessions will be:
 
-## HEALTH CARE DELIVERY
+## Healthcare delivery
 Identification of danger signs of dehydration and management of dehydration along with indication to take the patient to a doctor.
 What to do when patient has a seizure as witness
 Early recognition of Myocardial infarction (MI) in a patient presenting with chest pain so that early referral is possible.
